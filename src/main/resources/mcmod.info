@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "blocks_bazaar",
+        "name": "Blocks Bazaar",
+        "description": "Blocks Bazaar - By Blockincraft",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/Bl0ckincraft",
+        "updateUrl": "",
+        "authorList": ["Blockincraft"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
